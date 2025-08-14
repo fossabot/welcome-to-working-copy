@@ -27,3 +27,8 @@ If you have questions you can check out the [Users’ guide](working-copy://manu
 misbehaving or missing critical features write me at [anders@workingcopy.app](mailto:anders@workingcopy.app).
 
 ![Anders Borum](/examples/anders.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWooked361%2Fwelcome-to-working-copy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWooked361%2Fwelcome-to-working-copy?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWooked361%2Fwelcome-to-working-copy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FWooked361%2Fwelcome-to-working-copy?ref=badge_large)
